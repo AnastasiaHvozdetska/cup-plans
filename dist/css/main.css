@@ -14,7 +14,6 @@ body {
 
 .cup_card {
 	width: 30%;
-	height: 600px;
 	background-color: white;
 	display: flex;
 	flex-direction: column;
@@ -24,7 +23,7 @@ body {
 }
 
 .cup_card:nth-child(2) {
-	height: 650px;
+	height: 600px;
 }
 
 h1 {
